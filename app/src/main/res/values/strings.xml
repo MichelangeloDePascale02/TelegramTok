@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TelegramTok</string>
+    <string name="select_bot_activity">TelegramTok Downloader</string>
+    <string name="choose_a_bot">Scegli un bot Telegram</string>
+    <string name="bot_name">nullo</string>
+    <string name="current_bot_name">Bot impostato: %1$s</string>
+    <string name="disclaimer_title">Benvenuto in TelegramTok</string>
+    <string name="disclaimer_message">"Questa app ti consente di inoltrare i link di TikTok direttamente a un bot di Telegram per scaricare i video."</string>
+    <string name="disclaimer_confirm">Ho capito</string>
+</resources>

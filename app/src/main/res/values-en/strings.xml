@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TelegramTok</string>
+    <string name="select_bot_activity">TelegramTok Downloader</string>
+    <string name="choose_a_bot">Choose a Telegram Bot</string>
+    <string name="bot_name">null</string>
+    <string name="current_bot_name">Current Bot: %1$s</string>
+    <string name="disclaimer_title">Welcome to TelegramTok</string>
+    <string name="disclaimer_message">"This app lets you forward TikTok links directly to a Telegram bot to download the videos."</string>
+    <string name="disclaimer_confirm">I understand</string>
+</resources>

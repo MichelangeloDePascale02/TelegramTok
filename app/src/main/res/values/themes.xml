@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TelegramTok" parent="Theme.Material3.DayNight">
+        <!-- I colori dinamici vengono applicati automaticamente -->
+        <item name="android:colorPrimary">?attr/colorPrimary</item>
+        <item name="android:colorSecondary">?attr/colorSecondary</item>
+    </style>
+</resources>
